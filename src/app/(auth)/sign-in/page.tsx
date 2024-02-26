@@ -84,7 +84,7 @@ const Page = () => {
                 className: "gap-1.5",
               })}
             >
-              Don't have an account ?
+              Do not have an account ?
               <ArrowRight className="h-4 w-4" />
             </Link>
           </div>
